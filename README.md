@@ -12,7 +12,7 @@ A collaborative web-based Student Management System developed using Git workflow
 
 ## Modules
 
-[To be updated by team]
+Login, Dashboard, Reports, Configuration
 
 ## Tech Stack
 
